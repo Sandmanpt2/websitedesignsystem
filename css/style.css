@@ -1,0 +1,70 @@
+head {
+
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	
+}
+
+body {
+	background-color: black;
+	color: white;
+	font-family: Helvetica;
+}
+
+.AliceBlue {
+	background-color: #F0F8FF;
+	height: 50px;
+	width: 100px;
+	color: black;
+	
+}
+.DarkBlue {
+	background-color: #00008B;
+	height: 50px;
+	width: 100px;
+	
+}
+.DarkMagenta{
+	background-color: #8B008B;
+	height: 50px;
+	width: 100px;
+}
+.Maroon {
+	background-color: #800000;
+	height: 50px;
+	width: 100px;
+}
+.Red {
+	background-color: #FF0000;
+	height: 50px;
+	width: 100px;
+}
+.MistyRose {
+	background-color: #FFE4E1;
+	height: 50px;
+	width: 100px;
+	color: black;
+}
+.SpringGreen {
+	background-color: #00FF7F;
+	height: 50px;
+	width: 100px;
+	color: black;
+}
+.Turquoise {
+	background-color: #40E0D0;
+	height: 50px;
+	width: 100px;
+	color: black;
+}
+.SlateGrey {
+	background-color: #708090;
+	height: 50px;
+	width: 100px;
+	color: black;
+}
